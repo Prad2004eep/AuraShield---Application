@@ -1,9 +1,5 @@
 # 🛡️ Aura Shield - Real-Time Threat Monitoring for VIPs
 
-<div align="center">
-
-![Aura Shield Logo](./assets/images/icon.png)
-
 **A sophisticated mobile application for VIP threat detection and case management**
 
 [![Expo Version](https://img.shields.io/badge/Expo-53.0.4-000.svg?style=flat&logo=expo)](https://expo.dev)
