@@ -278,9 +278,8 @@ The web version can be deployed to any static hosting service:
 
 For questions, support, or feature requests:
 
-- 📧 Email: [Your Email]
 - 🐛 Issues: [GitHub Issues](https://github.com/Prad2004eep/AuraShield---Application/issues)
-- 📖 Documentation: [Wiki](https://github.com/Prad2004eep/AuraShield---Application/wiki)
+- 📖 Documentation: [Wiki](https://github.com/Prad2004eep/AuraShield---Application/Readme)
 
 ---
 
