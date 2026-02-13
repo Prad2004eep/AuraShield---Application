@@ -272,10 +272,6 @@ The web version can be deployed to any static hosting service:
 
 ---
 
-## 📝 License
-
-This project is **proprietary** and intended for internal/demo use only.
-
 ---
 
 ## 📞 Support
@@ -290,7 +286,7 @@ For questions, support, or feature requests:
 
 <div align="center">
 
-**Built with ❤️ for VIP protection**
+**Built with ❤️ for digital protection**
 
 [⭐ Star this repo](https://github.com/Prad2004eep/AuraShield---Application) • [🐛 Report Issues](https://github.com/Prad2004eep/AuraShield---Application/issues) • [📖 View Documentation](https://github.com/Prad2004eep/AuraShield---Application/wiki)
 
