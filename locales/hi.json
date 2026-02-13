@@ -1,0 +1,148 @@
+{
+    "common": {
+      "loading": "लोड हो रहा है...",
+      "error": "त्रुटि",
+      "success": "सफलता",
+      "cancel": "रद्द करें",
+      "ok": "ठीक है",
+      "save": "सहेजें",
+      "delete": "हटाएं",
+      "edit": "संपादित करें",
+      "back": "वापस",
+      "close": "बंद करें",
+      "search": "खोजें",
+      "filter": "फ़िल्टर",
+      "share": "साझा करें",
+      "all": "सभी",
+      "high": "उच्च",
+      "medium": "मध्यम",
+      "low": "कम"
+    },
+    "navigation": {
+      "dashboard": "डैशबोर्ड",
+      "alerts": "अलर्ट",
+      "graph": "ग्राफ",
+      "settings": "सेटिंग्स"
+    },
+    "dashboard": {
+      "welcomeBack": "वापसी पर स्वागत है,",
+      "activeThreats": "सक्रिय खतरे",
+      "monitoredVips": "निगरानी में VIP",
+      "casesResolved": "हल किए गए मामले",
+      "detectionRate": "पहचान दर",
+      "recentAlerts": "हाल के अलर्ट",
+      "viewAll": "सभी देखें",
+      "target": "लक्ष्य"
+    },
+    "alerts": {
+      "title": "सुरक्षा अलर्ट",
+      "subtitle": "रियल-टाइम खतरा निगरानी",
+      "searchPlaceholder": "अलर्ट खोजें...",
+      "noAlerts": "कोई अलर्ट नहीं मिला",
+      "tryAdjustingFilters": "अपनी खोज या फ़िल्टर को समायोजित करने का प्रयास करें",
+      "priority": "प्राथमिकता",
+      "severity": "गंभीरता",
+      "confidence": "विश्वास",
+      "source": "स्रोत",
+      "timestamp": "समय स्टैम्प"
+    },
+    "graph": {
+      "title": "नेटवर्क ग्राफ",
+      "subtitle": "खतरा सहसंबंध विश्लेषण",
+      "legend": "लेजेंड",
+      "account": "खाता",
+      "post": "पोस्ट",
+      "media": "मीडिया",
+      "nodeDetails": "नोड विवरण",
+      "type": "प्रकार",
+      "suspiciousActivity": "⚠️ संदिग्ध गतिविधि",
+      "detectedClusters": "पहचाने गए क्लस्टर",
+      "nodes": "नोड्स",
+      "connections": "कनेक्शन"
+    },
+    "settings": {
+      "title": "सेटिंग्स",
+      "subtitle": "अपनी सुरक्षा प्राथमिकताएं प्रबंधित करें",
+      "profile": "प्रोफ़ाइल",
+      "notifications": "सूचनाएं",
+      "pushNotifications": "पुश सूचनाएं",
+      "pushNotificationsDesc": "अपने डिवाइस पर अलर्ट प्राप्त करें",
+      "realTimeAlerts": "रियल-टाइम अलर्ट",
+      "realTimeAlertsDesc": "तत्काल खतरा सूचनाएं प्राप्त करें",
+      "vipManagement": "VIP प्रबंधन",
+      "addVipToMonitor": "निगरानी के लिए VIP जोड़ें",
+      "vipNamePlaceholder": "पूरा नाम (जैसे, नरेंद्र मोदी)",
+      "usernamePlaceholder": "@उपयोगकर्ता नाम या हैंडल",
+      "platform": "प्लेटफॉर्म",
+      "enterValidHandle": "कृपया एक वैध हैंडल दर्ज करें",
+      "vipAddedSuccess": "{{handle}} को निगरानी सूची में जोड़ा गया",
+      "verified": "सत्यापित",
+      "account": "खाता",
+      "signOut": "साइन आउट",
+      "signOutDesc": "अपने खाते से साइन आउट करें",
+      "signOutConfirm": "क्या आप वाकई साइन आउट करना चाहते हैं?",
+      "language": "भाषा",
+      "languageDesc": "अपनी पसंदीदा भाषा चुनें",
+      "selectLanguage": "भाषा चुनें"
+    },
+    "case": {
+      "title": "मामले का विवरण",
+      "status": "स्थिति",
+      "confidence": "विश्वास",
+      "analysis": "खतरा विश्लेषण",
+      "evidence": "सबूत बंडल",
+      "downloadPdf": "PDF डाउनलोड करें",
+      "markResolved": "हल के रूप में चिह्नित करें",
+      "created": "बनाया गया",
+      "riskAssessment": "जोखिम मूल्यांकन",
+      "threatLevel": "खतरे का स्तर",
+      "platform": "प्लेटफॉर्म",
+      "location": "स्थान",
+      "author": "लेखक",
+      "pdfDownloadInfo": "केस का PDF डाउनलोड किया जाएगा",
+      "shareInfo": "केस विवरण साझा किया जाएगा",
+      "resolvedToast": "मामला हल के रूप में चिह्नित"
+    },
+    "login": {
+      "title": "औरा शील्ड",
+      "subtitle": "VIP सुरक्षा प्लेटफॉर्म",
+      "description": "उच्च-प्रोफ़ाइल व्यक्तियों और संगठनों के लिए उन्नत खतरा पहचान और निगरानी।",
+      "email": "ईमेल",
+      "password": "पासवर्ड",
+      "signIn": "साइन इन",
+      "authenticating": "प्रमाणीकरण हो रहा है...",
+      "fillAllFields": "कृपया सभी फ़ील्ड भरें",
+      "demoCredentials": "डेमो क्रेडेंशियल: कोई भी ईमेल/पासवर्ड",
+      "features": {
+        "realTime": "रियल-टाइम निगरानी",
+        "realTimeDesc": "सभी प्रमुख प्लेटफॉर्म पर 24/7 निगरानी",
+        "aiPowered": "AI-संचालित पहचान",
+        "aiPoweredDesc": "उन्नत एल्गोरिदम खतरों को फैलने से पहले पहचानते हैं",
+        "comprehensive": "व्यापक रिपोर्ट",
+        "comprehensiveDesc": "हर खतरे के लिए विस्तृत सबूत बंडल"
+      }
+    },
+    "languages": {
+      "en": "English",
+      "hi": "हिंदी",
+      "kn": "ಕನ್ನಡ",
+      "te": "తెలుగు",
+      "ml": "മലയാളം",
+      "ta": "தமிழ்"
+    }
+,
+    "evidence": {
+      "newEvidence": "सबूत जोड़ें",
+      "uploadImage": "छवि अपलोड करें",
+      "pasteUrl": "URL पेस्ट करें",
+      "enterUrl": "URL दर्ज करें...",
+      "analyzeUrl": "URL विश्लेषण",
+      "analyzing": "विश्लेषण हो रहा है..."
+    },
+    "ai": {
+      "fallbackTitle": "AI मूल्यांकन उपलब्ध नहीं",
+      "fallbackDesc": "हम अभी इस छवि का विश्लेषण नहीं कर सके। एक सामान्य खतरा केस बनाया गया है ताकि आप इसे ट्रैक कर सकें।",
+      "fallbackVip": "अज्ञात"
+    }
+
+  }

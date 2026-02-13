@@ -1,0 +1,139 @@
+{
+    "common": {
+      "loading": "ಲೋಡ್ ಆಗುತ್ತಿದೆ...",
+      "error": "ದೋಷ",
+      "success": "ಯಶಸ್ಸು",
+      "cancel": "ರದ್ದುಮಾಡಿ",
+      "ok": "ಸರಿ",
+      "save": "ಉಳಿಸಿ",
+      "delete": "ಅಳಿಸಿ",
+      "edit": "ಸಂಪಾದಿಸಿ",
+      "back": "ಹಿಂದೆ",
+      "close": "ಮುಚ್ಚಿ",
+      "search": "ಹುಡುಕಿ",
+      "filter": "ಫಿಲ್ಟರ್",
+      "all": "ಎಲ್ಲಾ",
+      "high": "ಹೆಚ್ಚು",
+      "medium": "ಮಧ್ಯಮ",
+      "low": "ಕಡಿಮೆ"
+    },
+    "navigation": {
+      "dashboard": "ಡ್ಯಾಶ್‌ಬೋರ್ಡ್",
+      "alerts": "ಅಲರ್ಟ್‌ಗಳು",
+      "graph": "ಗ್ರಾಫ್",
+      "settings": "ಸೆಟ್ಟಿಂಗ್‌ಗಳು"
+    },
+    "dashboard": {
+      "welcomeBack": "ಮರಳಿ ಸ್ವಾಗತ,",
+      "activeThreats": "ಸಕ್ರಿಯ ಬೆದರಿಕೆಗಳು",
+      "monitoredVips": "ಮೇಲ್ವಿಚಾರಣೆಯಲ್ಲಿರುವ VIP ಗಳು",
+      "casesResolved": "ಪರಿಹರಿಸಿದ ಪ್ರಕರಣಗಳು",
+      "detectionRate": "ಪತ್ತೆ ದರ",
+      "recentAlerts": "ಇತ್ತೀಚಿನ ಅಲರ್ಟ್‌ಗಳು",
+      "viewAll": "ಎಲ್ಲವನ್ನೂ ವೀಕ್ಷಿಸಿ",
+      "target": "ಗುರಿ"
+    },
+    "alerts": {
+      "title": "ಭದ್ರತಾ ಅಲರ್ಟ್‌ಗಳು",
+      "subtitle": "ನೈಜ-ಸಮಯ ಬೆದರಿಕೆ ಮೇಲ್ವಿಚಾರಣೆ",
+      "searchPlaceholder": "ಅಲರ್ಟ್‌ಗಳನ್ನು ಹುಡುಕಿ...",
+      "noAlerts": "ಯಾವುದೇ ಅಲರ್ಟ್‌ಗಳು ಕಂಡುಬಂದಿಲ್ಲ",
+      "severity": "ತೀವ್ರತೆ",
+      "confidence": "ವಿಶ್ವಾಸ",
+      "source": "ಮೂಲ",
+      "timestamp": "ಸಮಯ ಮುದ್ರೆ"
+    },
+    "graph": {
+      "title": "ನೆಟ್‌ವರ್ಕ್ ಗ್ರಾಫ್",
+      "subtitle": "ಬೆದರಿಕೆ ಸಹಸಂಬಂಧ ವಿಶ್ಲೇಷಣೆ",
+      "legend": "ಲೆಜೆಂಡ್",
+      "account": "ಖಾತೆ",
+      "post": "ಪೋಸ್ಟ್",
+      "media": "ಮಾಧ್ಯಮ",
+      "nodeDetails": "ನೋಡ್ ವಿವರಗಳು",
+      "type": "ಪ್ರಕಾರ",
+      "suspiciousActivity": "⚠️ ಅನುಮಾನಾಸ್ಪದ ಚಟುವಟಿಕೆ",
+      "detectedClusters": "ಪತ್ತೆಯಾದ ಕ್ಲಸ್ಟರ್‌ಗಳು",
+      "nodes": "ನೋಡ್‌ಗಳು",
+      "connections": "ಸಂಪರ್ಕಗಳು"
+    },
+    "settings": {
+      "title": "ಸೆಟ್ಟಿಂಗ್‌ಗಳು",
+      "subtitle": "ನಿಮ್ಮ ಭದ್ರತಾ ಆದ್ಯತೆಗಳನ್ನು ನಿರ್ವಹಿಸಿ",
+      "profile": "ಪ್ರೊಫೈಲ್",
+      "notifications": "ಅಧಿಸೂಚನೆಗಳು",
+      "pushNotifications": "ಪುಶ್ ಅಧಿಸೂಚನೆಗಳು",
+      "pushNotificationsDesc": "ನಿಮ್ಮ ಸಾಧನದಲ್ಲಿ ಅಲರ್ಟ್‌ಗಳನ್ನು ಸ್ವೀಕರಿಸಿ",
+      "realTimeAlerts": "ನೈಜ-ಸಮಯ ಅಲರ್ಟ್‌ಗಳು",
+      "realTimeAlertsDesc": "ತತ್ಕ್ಷಣ ಬೆದರಿಕೆ ಅಧಿಸೂಚನೆಗಳನ್ನು ಪಡೆಯಿರಿ",
+      "vipManagement": "VIP ನಿರ್ವಹಣೆ",
+      "addVipToMonitor": "ಮೇಲ್ವಿಚಾರಣೆಗೆ VIP ಸೇರಿಸಿ",
+      "vipNamePlaceholder": "ಪೂರ್ಣ ಹೆಸರು (ಉದಾ, ನರೇಂದ್ರ ಮೋದಿ)",
+      "usernamePlaceholder": "@ಬಳಕೆದಾರ ಹೆಸರು ಅಥವಾ ಹ್ಯಾಂಡಲ್",
+      "platform": "ಪ್ಲಾಟ್‌ಫಾರ್ಮ್",
+      "enterValidHandle": "ದಯವಿಟ್ಟು ಮಾನ್ಯವಾದ ಹ್ಯಾಂಡಲ್ ಅನ್ನು ನಮೂದಿಸಿ",
+      "vipAddedSuccess": "{{handle}} ಅನ್ನು ಮೇಲ್ವಿಚಾರಣಾ ಪಟ್ಟಿಗೆ ಸೇರಿಸಲಾಗಿದೆ",
+      "verified": "ಪರಿಶೀಲಿಸಲಾಗಿದೆ",
+      "account": "ಖಾತೆ",
+      "signOut": "ಸೈನ್ ಔಟ್",
+      "signOutDesc": "ನಿಮ್ಮ ಖಾತೆಯಿಂದ ಸೈನ್ ಔಟ್ ಮಾಡಿ",
+      "signOutConfirm": "ನೀವು ನಿಜವಾಗಿಯೂ ಸೈನ್ ಔಟ್ ಮಾಡಲು ಬಯಸುವಿರಾ?",
+      "language": "ಭಾಷೆ",
+      "languageDesc": "ನಿಮ್ಮ ಆದ್ಯತೆಯ ಭಾಷೆಯನ್ನು ಆಯ್ಕೆಮಾಡಿ",
+      "selectLanguage": "ಭಾಷೆ ಆಯ್ಕೆಮಾಡಿ"
+    },
+    "case": {
+      "title": "ಪ್ರಕರಣದ ವಿವರಗಳು",
+      "status": "ಸ್ಥಿತಿ",
+      "confidence": "ವಿಶ್ವಾಸ",
+      "analysis": "ಭದ್ರತಾ ವಿಶ್ಲೇಷಣೆ",
+      "evidence": "ಸಾಕ್ಷ್ಯ ಬಂಡಲ್",
+      "downloadPdf": "PDF ವರದಿ ಡೌನ್‌ಲೋಡ್ ಮಾಡಿ",
+      "markResolved": "ಪರಿಹಾರಗೊಂಡಂತೆ ಗುರುತಿಸಿ",
+      "created": "ರಚಿಸಿದ ದಿನಾಂಕ",
+      "riskAssessment": "ಪರಿಹಾರ ಮೌಲ್ಯಮಾಪನ",
+      "threatLevel": "ಬೆದರಿಕೆಯ ಮಟ್ಟ",
+      "platform": "ಪ್ಲಾಟ್‌ಫಾರ್ಮ್",
+      "location": "ಸ್ಥಳ",
+      "author": "ಲೇಖಕ",
+      "pdfDownloadInfo": "ಕೇಸ್ PDF ಡೌನ್‌ಲೋಡ್ ಆಗುತ್ತದೆ",
+      "shareInfo": "ಕೇಸ್ ವಿವರಗಳನ್ನು ಹಂಚಲಾಗುತ್ತದೆ",
+      "resolvedToast": "ಪ್ರಕರಣ ಪರಿಹಾರಗೊಂಡಿದೆ"
+    },
+    "login": {
+      "title": "ಔರಾ ಶೀಲ್ಡ್",
+      "subtitle": "VIP ಸಂರಕ್ಷಣಾ ವೇದಿಕೆ",
+      "description": "ಉನ್ನತ-ಪ್ರೊಫೈಲ್ ವ್ಯಕ್ತಿಗಳು ಮತ್ತು ಸಂಸ್ಥೆಗಳಿಗೆ ಸುಧಾರಿತ ಬೆದರಿಕೆ ಪತ್ತೆ ಮತ್ತು ಮೇಲ್ವಿಚಾರಣೆ.",
+      "signIn": "ಡ್ಯಾಶ್‌ಬೋರ್ಡ್‌ಗೆ ಸೈನ್ ಇನ್ ಮಾಡಿ",
+      "features": {
+        "realTime": "ನೈಜ-ಸಮಯ ಮೇಲ್ವಿಚಾರಣೆ",
+        "realTimeDesc": "ಎಲ್ಲಾ ಪ್ರಮುಖ ವೇದಿಕೆಗಳಲ್ಲಿ 24/7 ಕಣ್ಗಾವಲು",
+        "aiPowered": "AI-ಚಾಲಿತ ಪತ್ತೆ",
+        "aiPoweredDesc": "ಸುಧಾರಿತ ಅಲ್ಗಾರಿದಮ್‌ಗಳು ಬೆದರಿಕೆಗಳು ಹರಡುವ ಮೊದಲು ಪತ್ತೆ ಮಾಡುತ್ತವೆ",
+        "comprehensive": "ಸಮಗ್ರ ವರದಿಗಳು",
+        "comprehensiveDesc": "ಪ್ರತಿ ಬೆದರಿಕೆಗೆ ವಿವರವಾದ ಸಾಕ್ಷ್ಯ ಬಂಡಲ್‌ಗಳು"
+      }
+    },
+    "languages": {
+      "en": "English",
+      "hi": "हिंदी",
+      "kn": "ಕನ್ನಡ",
+      "te": "తెలుగు",
+      "ml": "മലയാളം",
+      "ta": "தமிழ்"
+    }
+,
+    "evidence": {
+      "newEvidence": "ಸಾಕ್ಷ್ಯ ಸೇರಿಸಿ",
+      "uploadImage": "ಚಿತ್ರವನ್ನು ಅಪ್-ಲೋಡ್ ಮಾಡಿ",
+      "pasteUrl": "URL ಅಂಟಿಸಿ",
+      "enterUrl": "URL ನಮೂದಿಸಿ...",
+      "analyzeUrl": "URL ವಿಶ್ಲೇಷಿಸಿ",
+      "analyzing": "ವಿಶ್ಲೇಷಿಸಲಾಗುತ್ತಿದೆ..."
+    },
+    "ai": {
+      "fallbackTitle": "AI ಮೌಲ್ಯಮಾಪನ ಲಭ್ಯವಿಲ್ಲ",
+      "fallbackDesc": "ಈ ಚಿತ್ರದ ವಿಶ್ಲೇಷಣೆ ಈಗ ಸಾಧ್ಯವಾಗಲಿಲ್ಲ. ನೀವು ಟ್ರ್ಯಾಕ್ ಮಾಡಲು ಸಾಮಾನ್ಯ ಬೆದರಿಕೆ ಪ್ರಕರಣವನ್ನು ರಚಿಸಲಾಗಿದೆ.",
+      "fallbackVip": "ಅಪರಿಚಿತ"
+    }
+  }
